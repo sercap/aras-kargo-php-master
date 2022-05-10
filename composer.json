@@ -1,0 +1,16 @@
+{
+    "name": "sercap/aras-kargo-php-master",
+    "description": "Aras Kargo Entegrasyonu",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sercap\\ArasKargoPhpMaster\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Serdar ÇAPRAZ"
+        }
+    ],
+    "require": {}
+}
